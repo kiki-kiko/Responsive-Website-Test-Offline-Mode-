@@ -22,8 +22,6 @@ Portrait Respond
 min-width: 480px
 max-width: 320px
 
-=================
-
 Landscape Respond
 min-width: 320px
 max-width: 480px
