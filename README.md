@@ -5,10 +5,15 @@ A. Your Website Content Respond to Resolution
 ...
 
 body {
+	
 	min-width: 480px;
+	
 	max-width: 320px;
+	
 	margin: auto;
+	
 	padding: 0;
+
 }
 
 ...
@@ -25,7 +30,7 @@ min-width: 480px
 
 max-width: 320px
 
------------
++++++++++++
 
 Landscape Respond
 
@@ -33,15 +38,22 @@ min-width: 320px
 
 max-width: 480px
 
+---------
+
 B. Your Example Screen Resolution
 
 ...
 
 iframe {
+	
 	height: 100%;
+	
 	width: 100%;
+	
 	max-width: 320px;
+	
 	max-height: 480px;
+
 }
 
 ...
@@ -58,13 +70,15 @@ max-width: 320px
 
 max-height: 480px
 
------------
++++++++++++
 
 Landscape Screen
 
 max-width: 480px
 
 max-height: 320px
+
+---------
 
 C. What's this?
 
