@@ -1,9 +1,9 @@
 Hello, this is a simple responsive test website if you want to test your website with XAMPP (or offline)
 
-A. Your Website Content Respond to Resolution
+# A. Your Website Content Respond to Resolution
 
-...
 
+```css
 body {
 	
 	min-width: 480px;
@@ -15,8 +15,7 @@ body {
 	padding: 0;
 
 }
-
-...
+```
 
 min-width = maximum height value of your website content
 
@@ -40,10 +39,9 @@ max-width: 480px
 
 ---------
 
-B. Your Example Screen Resolution
+# B. Your Example Screen Resolution
 
-...
-
+```css
 iframe {
 	
 	height: 100%;
@@ -56,7 +54,7 @@ iframe {
 
 }
 
-...
+```
 
 max-width = maximum width value of your screen resolution
 
@@ -80,7 +78,7 @@ max-height: 320px
 
 ---------
 
-C. What's this?
+# C. What's this?
 
 This is just a simple way if you don't use a framework/plugin/software/extension to resize or offline.
 
