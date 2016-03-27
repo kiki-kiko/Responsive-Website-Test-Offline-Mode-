@@ -25,8 +25,12 @@ min-width: 480px
 
 max-width: 320px
 
+-----------
+
 Landscape Respond
+
 min-width: 320px
+
 max-width: 480px
 
 B. Your Example Screen Resolution
@@ -43,18 +47,23 @@ iframe {
 ...
 
 max-width = maximum width value of your screen resolution
+
 max-height = maximum height value of your screen resolution
 
 Example:
 
 Portrait Screen
+
 max-width: 320px
+
 max-height: 480px
 
-=================
+-----------
 
 Landscape Screen
+
 max-width: 480px
+
 max-height: 320px
 
 C. What's this?
