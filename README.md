@@ -14,12 +14,15 @@ body {
 ...
 
 min-width = maximum height value of your website content
+
 max-width = maximum width value of your website content
 
-Example:
+Example: 
 
 Portrait Respond
+
 min-width: 480px
+
 max-width: 320px
 
 Landscape Respond
