@@ -18,24 +18,19 @@ body {
 ```
 
 min-width = maximum height value of your website content
+max-width = maximum width value of your website content *same paragraph*
 
-max-width = maximum width value of your website content
-
-Example: 
+Example: *seperate parapgraph*
 
 Portrait Respond
-
 min-width: 480px
-
-max-width: 320px
+max-width: 320px *same paragraph*
 
 +++++++++++
 
 Landscape Respond
-
 min-width: 320px
-
-max-width: 480px
+max-width: 480px *same paragraph*
 
 ---------
 
